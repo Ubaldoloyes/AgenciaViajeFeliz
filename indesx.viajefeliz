@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>AgenciaViajefeliz</title>
+</head>
+<body background="practica/fondo1.jpg" text="white"> 
+<br>
+<h1 align="center"><font color= "#FFFFFF">Empresa de Turismo "El Viaje Feliz"</h1>
+ <video src="practica/video1.mp4" controls width="1250">
+	</video> 
+  <table width="800" height="650" align="center" border="4">
+      <tr>
+	       <td width="500"> <center>  <img src="practica/imagen1.jpg" width="500" height="500"  </center> </td>
+		   <td <align="center"><h1>¿Quienes somos?</h1> <h4>Somos un equipo de trabajo que asesora y ofrece viajes personales y vacacionales de alta calidad y valor superiores, con el compromiso de satisfacer las necesidades de nuestros clientes. Utilizamos herramientas con tecnología de punta para apoyar la asesoría personalizada que brindamos variedades de servicios que ofrecen y distinguen a nuestros colaboradores.</h4></center></td>
+	  </tr>
+        <tr>
+		  <td colspan="2"> <p><h1>Catálagos de Productos</h1><img src="practica/imagen2.jpg" width="500" height="500"  </center> </p> </td>
+		</tr>
+  
+   </table>
+   <table>
+   <br><h1 align="center"><font color= "#82FA58">HOTELES</h1></br>
+    <td><h1></h1> <h3>CASAS EN EL AGUA</h3><img src="practica/imagen4.jpg" width="300" height="300"  </center> <h4>Precio: $150 / Habitaciones: 2 / Recerbación: elviajefeliz212@gmail.com / Contacto: +57 3228469576</h4></td>   
+   <td><h1></h1> <h3>ESTELAR Villavicencio Hotel & Centro de Convenciones</h3><img src="practica/imagen4.jpg" width="300" height="300"  </center> <h4>Precio: $100 / Habitaciones: 2 / Recerbación: elviajefeliz212@gmail.com / Contacto: +57 3228469576</h4></td>   
+     <td><h1></h1> <h3>Finca El Maco</h3><img src="practica/imagen5.jpg" width="300" height="300"  </center> <h4>Precio: $89.99 / Habitaciones: 2 / Recerbación: elviajefeliz212@gmail.com / Contacto: +57 3228469576</h4></td> 
+   <td><h1></h1> <h3>Torre de Cali Plaza Hotel</h3><img src="practica/imagen6.jpg" width="300" height="300"  </center> <h4>Precio: $200 / Habitaciones: 3 / Recerbación: elviajefeliz212@gmail.com / Contacto: +57 3228469576</h4></td>  	 
+   </table>
+ <video src="practica/video3.mp4" controls width="1250">
+	</video>
+   </table>
+   <table>
+    <br><h1 align="center"><font color= "#82FA58">VUELOS</h1></br>
+    <td><h1></h1> <h3>BOGOTÁ</h3><img src="practica/imagen7.jpg" width="300" height="300"  </center> <h4>Precio: $351.00 / Recerbación: aerolineaselviajefeliz212@gmail.com / Contacto: +57 3228469586</h4></td> 
+     <td><h1></h1> <h3>Catargena de Indias</h3><img src="practica/imagen8.jpg" width="300" height="300"  </center> <h4>Precio: $395.00 / Recerbación: aerolineaselviajefeliz212@gmail.com / Contacto: +57 3228469586</h4></td>  
+     <td><h1></h1> <h3>Santa Marta</h3><img src="practica/imagen9.jpg" width="300" height="300"  </center> <h4>Precio: $370.00 / Recerbación: aerolineaselviajefeliz212@gmail.com / Contacto: +57 3228469586</h4></td>  
+     <td><h1></h1> <h3>Medellín</h3><img src="practica/imagen10.jpg" width="300" height="300"  </center> <h4>Precio: $345.00 / Recerbación: aerolineaselviajefeliz212@gmail.com / Contacto: +57 3228469586</h4></td>  	 
+   </table>
+   
+	    <video width="1250" height="1250" autoplay src="practica/video2.mp4" controls width="1250">
+	</video> 
+   </table>
+   <table>
+    <br><h1 align="center"><font color= "#82FA58">PAQUETES/SERVICIOS</h1></br>
+   <td><h1></h1> <h3>Punta Cana</h3><img src="practica/imagen11.jpg" width="300" height="300"  </center> <h4>Precio: $1100.00 / Recerbación: paqVIPelviajefeliz212@gmail.com / Contacto: +57 3228569586 / TODO INCLUIDO: 6 días y 5 noches, comidas y bebidas incluidas, etc.</h4></td>
+   <td><h1></h1> <h3>Coveñas – Sucre – Hotel La Fragata</h3><img src="practica/imagen12.jpg" width="300" height="300"  </center> <h4>Precio: $1000.00 / Recerbación: paqVIPaselviajefeliz212@gmail.com / Contacto: +57 3228569586 / INCLUYE: 4 días y 3 noches, comidas y bebidas al gusto, etc.</h4></td>
+   <td><h1></h1> <h3>Palomino – La Guajira – EcoHotel Playa La Roca</h3><img src="practica/imagen13.jpg" width="300" height="300"  </center> <h4>Precio: $1200.00 / Incluye: Alojamiento de 6 días y 5 noches, comidas y bebidas entre otros / Recerbación: paqVIPaselviajefeliz212@gmail.com / Contacto: +57 3228569586</h4></td>
+   <td><h1></h1> <h3>Santa Marta – Magdalena – Promoción Hotel Sanha Plus – Tercera noche gratis</h3><img src="practica/imagen14.jpg" width="300" height="300"  </center> <h4>Precio: $855.00 / Incluye: 4 días y 3 noches Recerbación: paqVIPaselviajefeliz212@gmail.com / Contacto: +57 3228569586</h4></td>   
+   </table>
+
+</body>
+<h1>
+<div class="redes"> 
+  <h2>Contactanos en:</h2>
+    <ul>
+	  <li><a href="https://www.facebook.com/"><img src="practica/imagen15.jpg" width="45" height="45"></a></li>
+	</ul>
+	 <ul>
+	   <li><a href="https://www.instagram.com/"><img src="practica/imagen16.jpg" width="45" height="45"></a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://www.whatsapp.com/"><img src="practica/imagen17.jpg" width="45" height="45"></a></li>
+	</ul>
+	<h3>Telefonos:</h3><h4><font color= "#FFFFFF">+57 3228569586 o +57 4568569586 </h4>
+  </div>
+</h1>
+	   
+
+</html>
